@@ -32,18 +32,21 @@ The sales trend shows revenue increased consistently across all quarters with it
 
 2010 Q4 to 2011 Q1: A sharp increase in sales quantity noted. 2011 Q1 to 2011 Q3: A steady increase occurred. 2011 Q3 to 2011 Q4: Sales experienced a further sharp increase.
 
-"C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-04-22 095529.png"
+![Screenshot 2025-04-22 095529](https://github.com/user-attachments/assets/018fdef5-c356-4219-add0-59d90136ae8b)
+
 
 Investigating top selling products through the months, jewelry sold most in November, cosmetics sold more in October, kitchenware in August etc.
 
-"C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-04-22 095427.png"
+![Screenshot 2025-04-22 095427](https://github.com/user-attachments/assets/75358667-cb89-4fa4-90d1-2d9b2b8eb450)
+
 
 # Cohort Analysis
 Using cohort analysis I segmented users into distinct groups, or cohorts, based on certain criteria. These cohorts were defined by the time of user acquisition. By grouping users based on time of acquisition, we saw how different cohorts behave in terms of engagement and retention. 
 
 A healthy retention rate for e-commerce platforms is typically considered to be in the range of 20% to 40%. This means that 20% to 40% of E-shop Pro customers continued to make purchases from the e-commerce platform after their initial purchase.
 
-"C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-04-22 095221.png"
+![Screenshot 2025-04-22 095221](https://github.com/user-attachments/assets/d32ed5fc-a803-4e35-8e67-efcc50731f95)
+
 
 December 2010 Cohort Outperforms Others: The fact that the December 2010 cohort has a retention rate above 30% is a positive sign. It suggests that this group of customers has remained engaged with your e-commerce platform over time. This could be due to various factors, such as the quality of your products/services, effective marketing, or a strong customer retention strategy.
 
